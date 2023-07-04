@@ -1,2 +1,5 @@
 # Flappy-Tam
-Remake of Flappy Bird from Ha Dong Nguyen
+This repository is my first project. It is the Flappy Bird clone from Mr. Ha Dong Nguyen, made with plain HTML, CSS, and JavaScript.
+
+# Author
+@ball2004244
